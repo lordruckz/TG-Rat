@@ -240,7 +240,7 @@ def mrrobot(chat_id, data):
 
 
 if __name__ == "__main__":
-    print("[+] Hacked by cybermad")
+    print("[+] Hacked by Letrium")
     print(r"""
      .... NO! ...                  ... MNO! ...
    ..... MNO!! ...................... MNNOO! ...
@@ -266,4 +266,5 @@ if __name__ == "__main__":
          ................................
     """)
     bot.infinity_polling()
+
 
